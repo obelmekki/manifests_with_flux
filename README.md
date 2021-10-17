@@ -1,1 +1,1 @@
-# manifests_with_flux
+# Sample repo for lab.
